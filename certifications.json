@@ -1,0 +1,13 @@
+[
+  {
+    "alt": "APIs and Microservices Certificate",
+    "completionDate": "2020-03-24",
+    "image": "fcc-apis-microservices.png",
+    "languages": "NodeJS, MongoDB, Mongoose, NPM",
+    "name": "APIs and Microservices",
+    "urls": {
+      "certificate": "https://www.freecodecamp.org/certification/chinh-le/apis-and-microservices",
+      "source": "https://www.freecodecamp.org/learn/#apis-and-microservices"
+    }
+  }
+]
